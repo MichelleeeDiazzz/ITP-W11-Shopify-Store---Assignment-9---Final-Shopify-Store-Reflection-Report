@@ -1,0 +1,69 @@
+---
+title: "Final Shopify Store Reflection Report"
+subtitle: "ITP-W11 Shopify Store, Assignment 9"
+author: "Michelle Diaz"
+date: "2026-08-08"
+format:
+  html:
+    embed-resources: true
+    theme: cosmo
+    toc: true
+---
+
+## 1. Store Overview
+
+My practice store, "Practice Store - Farm Store," is a farm-fresh gift store built around the concept of curated gift baskets and boxes made from farm-grown and locally made products. The store concept mirrors the CPP Farm Store consulting project, using a warm, farm-to-table brand identity to sell products that feel personal and community-rooted. The target customer is the value-conscious gift buyer, roughly 35 to 65 years old, who is drawn to unique, local, and thoughtful gifts and who wants a purchase to mean something beyond the transaction. The product assortment centers on gift baskets and boxes, such as the CPP Snack Box, along with individual farm-made items like preserves, butters, and snacks that can be featured on their own or combined into a basket.
+
+## 2. Final Store Evidence
+
+The screenshots below document the final state of my Shopify store across its key pages and setup.
+
+**Homepage**
+
+![Store homepage](final-homepage.png)
+
+**Product catalog / product page**
+
+![Product page](final-product-page.png)
+
+**Collection page**
+
+![Collection page](final-collection-page.png)
+
+
+**Policy / contact information**
+
+![Contact information](final-contact-information.png)
+
+
+![Policy](final-policy.png)
+
+**GA4 / Shopify analytics evidence**
+
+![GA4 property and analytics setup evidence](final-analytics.png)
+
+## 3. Retail Technology Reflection
+
+What I learned from this project is how to use a new website host, especially one built specifically for selling products, and how to apply retail frameworks to it. I learned the importance of quality product photography, headers and banners, and detailed product descriptions, along with why clear policies and privacy choices matter for the online customer. More broadly, I learned how to set up and design a website to be user-friendly, and why so much thought and planning is crucial. Good storefront design is not only for the retailer. It serves the customer who needs to navigate and trust the store, and in this case it also serves platforms like Google, which need a well-structured store in order to showcase it in search and Shopping results.
+
+## 4. Merchandising Reflection
+
+I learned that having your products clearly stated and organized into sections makes it easier for customers to find what they want and keeps the user experience manageable. Building catalogs and product groups is a major benefit, since it makes what a customer is searching for as easy to reach as possible. Thinking about websites I purchase from myself, I now appreciate how much pre-planning goes into a good setup. The best stores go beyond simply listing products; they showcase them clearly and conveniently, the same way a well-organized brick-and-mortar store guides a shopper through the aisles. The goal is to keep the customer engaged and satisfied as they navigate the site, and strong merchandising and navigation are what make that possible online.
+
+## 5. Analytics Reflection
+
+Connecting GA4 posed a technical challenge, since my practice store could not go fully live on a free plan. That said, I clearly see the benefit of using it. GA4 provides valuable insight for an online business, showing its audience and demographics, traffic and acquisition sources, and landing page performance. It offers a real-time overview of active users, along with report snapshots of user behavior, sales and revenue, and marketing performance. All of these help a business optimize its strategies and make better, data-driven decisions. Even though I could not complete the live connection, working through the setup taught me what GA4 measures and why that data matters for understanding how customers actually behave in an online store.
+
+## 6. CPP Farm Store Application
+
+The skills I practiced apply directly to the CPP Farm Store consulting project in at least three specific ways. First, a real shoppable Shopify storefront could replace the store's current Wix gallery, which displays baskets but is not actually shoppable, so the 15 to 20 gift basket orders currently handled by phone and paper each week could move online without losing the personal curation that makes them special. Second, GA4 and Shopify analytics could untangle the store's fragmented online presence, which is currently spread across Google, Instagram, Facebook, and multiple websites, and finally show which channel actually drives sales. Third, the e-commerce design principles I practiced around clear policies and trust signals would matter especially for CPP Farm Store, since it ships perishable food and receives out-of-state and international orders, and customers need clear shipping and freshness policies before they feel confident buying.
+
+## 7. Final Self-Assessment
+
+The part of my store I am most proud of is the homepage and the product presentation. The hero section communicates the brand quickly and sets a warm, farm-fresh tone, and the product photography and descriptions make the items feel like real, giftable products rather than placeholders. If I had more time, the part I would improve is building out a dedicated customizable gift basket page so customers could personalize their orders, and correcting the remaining template text in the product accordions so every detail accurately reflects a food store rather than generic placeholder copy. These improvements would make the store more complete, more accurate, and closer to something a real business could use.
+
+## Appendix
+
+- **GitHub Pages:** [add your published URL here]
+- **GitHub Repo:** [add your repo URL here]
+
